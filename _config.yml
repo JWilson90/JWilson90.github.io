@@ -1,6 +1,7 @@
 excerpt_separator: ""
 pygments: rouge
 markdown: kramdown
+highlighter: rouge
 url: http://JWilson90.github.io
 title: JWilson90
 tagline: A log of everyday life
