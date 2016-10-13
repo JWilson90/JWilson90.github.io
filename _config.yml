@@ -1,6 +1,7 @@
 excerpt_separator: ""
-pygments: true
+pygments: 
 markdown: kramdown
+highlighter: rouge
 url: http://JWilson90.github.io
 title: The Hungry Archaeologist
 tagline: Cultural Preservation and Revival Through the Stomachs of the World
